@@ -1,0 +1,22 @@
+
+body {
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  font-family: sans-serif;
+}
+
+.main-music-card {
+  padding: 20px;
+  border-radius: 20px;
+  background: #111;
+  width: 350px;
+  text-align: center;
+}
+
+.album-art iframe {
+  display: none;
+}
